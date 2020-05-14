@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#gameContainer {
+  height: 400px;
+  width: 90%;
+  background: rgb(240, 134, 48);
+  position: relative;
+  margin: 0 auto;
+}
